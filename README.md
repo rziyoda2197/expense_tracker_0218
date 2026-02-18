@@ -1,1 +1,6 @@
-# expense_tracker_0218
+# Expense Tracker CLI
+
+Harajat qo‘shish va jami hisoblash.
+
+## Run
+python main.py
